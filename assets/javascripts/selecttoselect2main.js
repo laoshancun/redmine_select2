@@ -13,7 +13,7 @@
     });
 
     // For GET,POST Request
-    $(window).load(function() {
+    $(window).ready(function() {
         replaceAllSelect2();
     });
 
